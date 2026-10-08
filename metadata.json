@@ -1,0 +1,6 @@
+{
+  "name": "Yatayat Sewa Alpha Tester Onboarding",
+  "description": "Official onboarding portal for Yatayat Sewa Passenger Android closed Alpha testing in Sindhuli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
